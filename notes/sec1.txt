@@ -4,3 +4,5 @@
     * cout -> charactor output
 
     * << หมายถึง output
+
+    * std::endl -> จะช่วยล้าง output buffer ออกไปด้วย
