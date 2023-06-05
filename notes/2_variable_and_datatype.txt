@@ -1,0 +1,30 @@
+    * variable
+        - เป็นตัวแทนของค่าหรือจำนวน
+        > มี 2 ขั้นตอนคือ
+            - declaration   int x;
+            - assignment    x = 5;
+            - ทำ 2 ขั้นตอนพร้อมกันได้ int x = 5;
+    
+    * integer (whole number)
+        - เลขจำนวนเต็ม
+        - int
+        - example: int age = 21;
+
+    * double (number including decimal)
+        - เลขจำนวนเต็มที่มีทศนิยม
+        - double
+        - example: double price = 10.99;
+
+    * char (single character)
+        - เก็บอักขระ 1 ตัว
+        - char
+        - example: char grade = 'A';
+
+    * boolean (true or false)
+        - เก็บค่า จริง เท็จ
+        - bool
+        - example: bool isTrue = true;
+
+    * string (objects that represents a sequence of text)
+        - เป็น objects ที่ลำดับของข้อความ หรือเป็นเหมือนกับ char แต่สามารถเก็บได้หลายตัว
+        - เป็น object ของ standard namespace

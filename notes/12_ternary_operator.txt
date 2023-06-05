@@ -1,0 +1,4 @@
+
+    * เป็นการเขียนเงื่อนไขแบบย่อ
+
+    * condition ? expression 1 : expression 2;

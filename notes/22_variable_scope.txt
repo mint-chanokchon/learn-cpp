@@ -1,0 +1,6 @@
+
+    * local variable  
+        - เป็นตัวแปรที่ถูก declared ด้านใน function หรือ block {}
+
+    * global variable
+        - ตัวแปรที่ถูกประกาศไว้ด้านนอก function

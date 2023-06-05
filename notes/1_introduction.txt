@@ -1,0 +1,6 @@
+
+    * c++ เป็น middle level
+
+    * c++ เป็นภาษา compiler ทำให้เครื่องคอมพิวเตอร์สามารถเข้าใจได้โดยตรง
+
+    * compiler เป็นซอฟแวร์ที่ใช้ในการแปลง source code เป็น machine code

@@ -1,0 +1,10 @@
+
+    * เป็นวิธีแก้ปัญหาสำหรับป้องกันความขัดแย้งของชื่อ (ชื่อตัวแปรหรือฟังก์ชันซ้ำกัน) ในโปรเจ็คขนาดใหญ่ 
+
+    * compiler อนุญาติให้ตั้งชื่อเหมือนกันได้ ตราบใดที่ namespace ต่างกัน
+
+    * :: คือ scope resolution operator ใช้เพื่อเข้าถึงฟังก์ชันของ class หรือ namespace
+
+    * using namespace คือ การเรียกใช้ namespace ที่ระบุแบบครั้งเดียว แล้วใช้ได้ทั้ง scope โดยจะแบ่งเป็น 2 แบบ คือ 
+        - using namespace std; เรียกใช้การเข้าถึง namespace std ทุกอัน
+        - using std::string;    เข้าถึงเฉพาะ string ที่อยู่ใน namespace std;
