@@ -1,8 +1,0 @@
-
-    * return 0 ตอนท้ายเพื่อบอก compiler ว่าไม่มีปัญหาอะไร ถ้าเป็นตัวเลขอื่นคือมีปัญหาในขึ้นตอน compiler
-
-    * cout -> charactor output
-
-    * << หมายถึง output
-
-    * std::endl -> จะช่วยล้าง output buffer ออกไปด้วย
