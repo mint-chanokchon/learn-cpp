@@ -1,0 +1,2 @@
+
+    * ดำเนินการเกี่ยวกับขนาดของ variable, data type, class, object, etc. ในรูปแบบของ bytes
