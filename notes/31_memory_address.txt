@@ -1,0 +1,4 @@
+
+    * memory address เป็นที่อยู่ของข้อมูลที่ถูกจัดเก็บไว้
+
+    * ใน c++ memory address สามารถเข้าถึงได้ด้วย & (address-of operator)

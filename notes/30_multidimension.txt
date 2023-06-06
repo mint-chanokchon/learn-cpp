@@ -1,0 +1,6 @@
+
+    * 2D Array = {arr1, arr2, arr3};
+
+    * data_type name[a][b]
+        - a     -> ระบุขนาดของ Array rows
+        - b     -> ระบุขนาดของ Arary columns

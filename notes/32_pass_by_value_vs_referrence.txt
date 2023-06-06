@@ -1,0 +1,13 @@
+
+    * Pass by value
+        - example: void swap(string x, string y);
+        - เป็นการทำสำเนาใหม่จากต้นฉบับเมื่อมีการส่งค่าให้ฟังก์ชัน
+
+    * Pass by referrance
+        - example: void swap(string &x, string &y);
+        - เป็นการส่ง memory address เข้าไป ทำให้เมื่อทำการแก้ไข จะเป็นการแก้ไขตัวแปรในที่อยู่ทันที
+
+    * เมื่อเราทำการ pass value ไปให้กับ function ตัว complier จะทำการคัดลากใหม่แล้วค่อยส่งให้ function 
+    ถ้าราค้องการใหเปลี่ยนแปรงต้นฉบับ ให้ pass โดยการ referance โดยการอ้างอิง memory address
+
+    * เราควรจะ pass by referrance ให้บ่อยที่สุด
