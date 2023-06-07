@@ -2,7 +2,7 @@
 
 using std::string;
 
-void printInfo(string name, int age);
+void printInfo(const string &name, const int &age);
 
 int main()
 {
@@ -14,7 +14,8 @@ int main()
     return 0;
 }
 
-void printInfo(string name, int age)
+void printInfo(const string &name, const int &age)
 {
-
+    std::cout << name << '\n';
+    std::cout << age << '\n';
 }
